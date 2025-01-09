@@ -36,4 +36,4 @@
 
 #### [6a Authentisierung-Authentifizirung](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/6a%20Authentisierung-Authentifiz.md)
 
-#### [6b Multifaktor Authentisierung]()
+#### [6b Multifaktor Authentisierung](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/6b%20Multifaktor%20Authentisierung.md)
