@@ -34,4 +34,6 @@
 
 ### Auftrag 6
 
-#### [6a Authentisierung-Authentifiz]()
+#### [6a Authentisierung-Authentifizirung](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/6a%20Authentisierung-Authentifiz.md)
+
+#### [6b Multifaktor Authentisierung]()
