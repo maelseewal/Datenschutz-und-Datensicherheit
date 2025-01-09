@@ -2,6 +2,12 @@
 
 ## Mael Seewald
 
+### Tag 1
+
+#### Tagesablauf
+
+##### Am ersten Tag gab es eine Einleitung und wir richteten GitHub oder GitLab ein. Ich hab mich für GitHub entschieden da ich damit schon erfahrung hatte.
+
 ### Auftrag 1
 
 #### [Wo speichere ich meine Daten ab](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/Wo_speichere_ich_meine_Daten.md?classId=baae2cf9-dd90-486c-9b8e-5882d5ed1ac1&assignmentId=0f7799e5-dc7f-45e8-a5eb-3d6dea06d320&submissionId=4464210e-8f46-f40f-add8-84e1eb0d164f)
@@ -20,4 +26,6 @@
 
 #### [Backup-Leseauftrag](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/Backup-Leseauftrag.md?classId=baae2cf9-dd90-486c-9b8e-5882d5ed1ac1&assignmentId=0ae845ce-3e1a-4841-9085-548172e1222c&submissionId=f14473cb-6791-b0cc-b484-618e052006e1)
 
-#### [Backup-Konzept erstellen]
+#### [Backup-Konzept erstellen (1/2)](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/Backup_Konzept_erstellen.md)
+
+#### [Backup-Konzept erstellen (1/2)]

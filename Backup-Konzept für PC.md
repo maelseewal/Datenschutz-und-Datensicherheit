@@ -1,0 +1,13 @@
+# Backup-Analyse für Laptop
+
+| **Service/Anwendung**      | **Funktion**                                | **Betroffene Daten**                          | **Backup**                                       | **Wiederherstellung**                                       |
+| -------------------------- | ------------------------------------------- | --------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------- |
+| **Benutzerordner**         | Speicherung persönlicher Daten              | Dokumente, Bilder, Videos                     | Automatische Sicherung mit OneDrive              | Synchronisierung oder Wiederherstellung vom Backup-Laufwerk |
+| **Systemkonfigurationen**  | Personalisierte Einstellungen               | Desktop-Layout, Spracheinstellungen, Treiber  | Systemabbild mit Windows Backup-Tool             | Systemabbild zurückspielen                                  |
+| **Programme**              | Tools und Software zur Arbeit oder Freizeit | Installierte Programme, Konfigurationsdateien | Liste erstellen und Installationsdateien sichern | Programme erneut installieren                               |
+| **Entwicklungsumgebungen** | Programmieren und Testen                    | Quellcode, Projekte                           | GitHub/GitLab Repository, lokale Sicherung       | Repository erneut klonen oder Sicherung zurückspielen       |
+| **Virtuelle Maschinen**    | Testumgebungen                              | VM-Images (z. B. für VirtualBox/VMware)       | Sicherung der VM-Dateien                         | VM-Dateien importieren                                      |
+| **Datenbanken**            | Verwaltung von Projektdaten                 | Datenbanken (SQLite, MySQL)                   | Regelmäßige Datenbank-Backups                    | Backup-Datei zurückspielen                                  |
+| **Fotos/Videos**           | Persönliche Erinnerungen                    | Fotos, Videos                                 | Synchronisierung mit Cloud-Diensten              | Cloud-Synchronisation aktivieren                            |
+| **Notizen**                | Persönliche und berufliche Notizen          | Textdateien, Notizen                          | Synchronisierung mit OneNote oder lokalem Backup | Konto verbinden, Notizen synchronisieren                    |
+| **Gaming**                 | Spiele und Spielstände                      | Installierte Spiele, Spielstände              | Cloud-Synchronisierung (Steam, Epic Games)       | Spiele neu installieren, Cloud-Spielstände laden            |
