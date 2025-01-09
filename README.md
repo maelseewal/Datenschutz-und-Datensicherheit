@@ -8,29 +8,59 @@
 
 ##### Am ersten Tag gab es eine Einleitung und wir richteten GitHub oder GitLab ein. Ich hab mich für GitHub entschieden da ich damit schon erfahrung hatte.
 
+### Tag 2
+
+#### Tagesablauf
+
+##### Am zweiten Tag machten wir ein eigenes Ablagekonzept über unsere Daten.
+
+### Tag 3
+
+#### Tagesablauf
+
+##### Am dritten Tag hörten wir einen Pottcast zu dem Datetenschutzgesetzt und beantworteten Fragen dazu.
+
+### Tag 4
+
+#### Tagesablauf
+
+##### Am vierten Tag begannen wir ein eigenes Backupkonzept zu erstellen und lasen dafür ein Text zu dem wir dann Fragen beantworten mussten.
+
+### Tag 5
+
+#### Tagesablauf
+
+##### Am fünften Tag war ich krank.
+
+### Tag 6
+
+#### Tagesablauf
+
+##### Am sechsten Tag machte ich meine Backupkonzept fertig und fürte dann das Backup auch durch. Dannach verbesserte ich meinen Passwortmanager.
+
 ### Auftrag 1
 
-#### [1a Wo speichere ich meine Daten ab](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/Wo_speichere_ich_meine_Daten.md?classId=baae2cf9-dd90-486c-9b8e-5882d5ed1ac1&assignmentId=0f7799e5-dc7f-45e8-a5eb-3d6dea06d320&submissionId=4464210e-8f46-f40f-add8-84e1eb0d164f)
+#### [1b Wo speichere ich meine Daten ab](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/1b%20Wo_speichere_ich_meine_Daten.md)
 
-#### [1b Eigenes graphisches Ablagekonzept](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/Eigenes%20Ablagekonzept.md?classId=baae2cf9-dd90-486c-9b8e-5882d5ed1ac1&assignmentId=50169340-2b4f-4257-8e51-9204ecf9aac5&submissionId=8a2d421c-9ba9-9f6f-8995-89aa336c2d47)
+#### [1c Eigenes graphisches Ablagekonzept](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/1c%20Eigenes%20Ablagekonzept.md)
 
 ### Auftrag 2
 
-#### [2a GitÜbung als Ablage- und Versionsverwaltung kennenlernen](https://github.com/maelseewal/Datenschutz-und-Datensicherheit?classId=baae2cf9-dd90-486c-9b8e-5882d5ed1ac1&assignmentId=eb89d46e-a487-4c3e-8c66-30b8162f9a74&submissionId=8a9ae324-0019-d1c4-4e7a-b0432bc04802)
+#### [2a GitÜbung als Ablage- und Versionsverwaltung kennenlernen](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/2a%20Git%C3%9Cbung.md)
 
 ### Auftrag 3
 
-#### [3a Das Datenschutzrecht)](<https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/M231-3a%20Das%20Datenschutzrecht%20(Gesetz%2C%20Verordnung%2C%20ED%C3%96B).md?classId=baae2cf9-dd90-486c-9b8e-5882d5ed1ac1&assignmentId=297e8b36-f73c-4aa1-80c9-d1e1eaf1519f&submissionId=61bfbbac-0038-e28f-ca95-5600656dc1ef>)
+#### [3a Das Datenschutzrecht)](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/3a%20Das%20Datenschutzrecht%20.md)
 
 ### Auftrag 4
 
-#### [4a Backup-Leseauftrag](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/Backup-Leseauftrag.md?classId=baae2cf9-dd90-486c-9b8e-5882d5ed1ac1&assignmentId=0ae845ce-3e1a-4841-9085-548172e1222c&submissionId=f14473cb-6791-b0cc-b484-618e052006e1)
+#### [4a Backup-Leseauftrag](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/4a%20Backup-Leseauftrag.md)
 
-#### [4b Backup-Konzept erstellen (1/2)](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/Backup_Konzept_erstellen.md)
+#### [4b Backup-Konzept erstellen (1/2)](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/4b%20Backup_Konzept_erstellen.md)
 
-#### [4c Backup-Konzept erstellen (2/2)](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/Backup-Konzept%20f%C3%BCr%20PC.md)
+#### [4c Backup-Konzept erstellen (2/2)](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/4c%20Backup-Konzept%20f%C3%BCr%20PC.md)
 
-#### [4d Backup erstellen](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/4d_Backup_erstellen.md)
+#### [4d Backup erstellen](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/4d%20Backup_erstellen.md)
 
 ### Auftrag 6
 
