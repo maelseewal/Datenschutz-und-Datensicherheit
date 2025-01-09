@@ -38,4 +38,4 @@
 
 #### [6b Multifaktor Authentisierung](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/6b%20Multifaktor%20Authentisierung.md)
 
-#### [6c Passwort-Manager einrichten]()
+#### [6c Passwort-Manager einrichten](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/6c%20Passwort-Manager%20einrichten.md)
