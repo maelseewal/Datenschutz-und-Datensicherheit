@@ -6,39 +6,43 @@
 
 #### Tagesablauf
 
-##### Am ersten Tag gab es eine Einleitung und wir richteten GitHub oder GitLab ein. Ich hab mich für GitHub entschieden da ich damit schon erfahrung hatte.
+Am ersten Tag gab es eine Einleitung und wir richteten GitHub oder GitLab ein. Ich hab mich für GitHub entschieden da ich damit schon erfahrung hatte.
 
 ### Tag 2
 
 #### Tagesablauf
 
-##### Am zweiten Tag machten wir ein eigenes Ablagekonzept über unsere Daten.
+Am zweiten Tag machten wir ein eigenes Ablagekonzept über unsere Daten.
 
 ### Tag 3
 
 #### Tagesablauf
 
-##### Am dritten Tag hörten wir einen Pottcast zu dem Datetenschutzgesetzt und beantworteten Fragen dazu.
+Am dritten Tag hörten wir einen Pottcast zu dem Datetenschutzgesetzt und beantworteten Fragen dazu.
 
 ### Tag 4
 
 #### Tagesablauf
 
-##### Am vierten Tag begannen wir ein eigenes Backupkonzept zu erstellen und lasen dafür ein Text zu dem wir dann Fragen beantworten mussten.
+Am vierten Tag begannen wir ein eigenes Backupkonzept zu erstellen und lasen dafür ein Text zu dem wir dann Fragen beantworten mussten.
 
 ### Tag 5
 
 #### Tagesablauf
 
-##### Am fünften Tag war ich krank.
+Am fünften Tag war ich krank.
 
 ### Tag 6
 
 #### Tagesablauf
 
-##### Am sechsten Tag machte ich meine Backupkonzept fertig und fürte dann das Backup auch durch. Dannach verbesserte ich meinen Passwortmanager.
+Am sechsten Tag machte ich meine Backupkonzept fertig und fürte dann das Backup auch durch. Dannach verbesserte ich meinen Passwortmanager.
 
-### Auftrag 1
+### Tag 7
+
+#### Tagesablauf
+
+Am siebten Tag machten wir am anfang ein Spiel bei dem man in einer Gruppe eine NAchricht verschlüüsseln musste. Dannach musste eine andere Gruppe die Nachricht enschlüsseln. Anschlissend machten wir wie jede Woche unsere Aufträge. Diese Woche zum Thema Veschlüsselung.
 
 #### [1b Wo speichere ich meine Daten ab](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/1b%20Wo_speichere_ich_meine_Daten.md)
 
@@ -69,3 +73,13 @@
 #### [6b Multifaktor Authentisierung](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/6b%20Multifaktor%20Authentisierung.md)
 
 #### [6c Passwort-Manager einrichten](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/6c%20Passwort-Manager%20einrichten.md)
+
+### Auftrag 7
+
+#### [7a FIDO - Anmeldeverfahren ohne Passwörter](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/7a%20FIDO%20-%20Anmeldeverfahren%20ohne%20Passw%C3%B6rter.md)
+
+#### [7b Crypt-Tool anwenden](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/7b%20Crypt-Tool%20anwenden.md)
+
+### Auftrag 8
+
+### Auftrag 9
