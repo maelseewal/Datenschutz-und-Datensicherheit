@@ -1,4 +1,4 @@
-## Impressum, Disclaimer, AGB
+# Impressum, Disclaimer, AGB
 
 ### Aufgabe 1: Übersetzungen für "Impressum"
 
