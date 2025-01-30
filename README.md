@@ -42,7 +42,23 @@ Am sechsten Tag machte ich meine Backupkonzept fertig und fürte dann das Backup
 
 #### Tagesablauf
 
-Am siebten Tag machten wir am anfang ein Spiel bei dem man in einer Gruppe eine NAchricht verschlüüsseln musste. Dannach musste eine andere Gruppe die Nachricht enschlüsseln. Anschlissend machten wir wie jede Woche unsere Aufträge. Diese Woche zum Thema Veschlüsselung.
+Am siebten Tag machten wir am anfang ein Spiel bei dem man in einer Gruppe eine Nachricht verschlüüsseln musste. Dannach musste eine andere Gruppe die Nachricht enschlüsseln. Anschlissend machten wir wie jede Woche unsere Aufträge. Diese Woche zum Thema Veschlüsselung.
+
+### Tag 8
+
+#### Tagesablauf
+
+Am achten Tag machten wir Aufträge zum Anmeldeverfahren und danach hatten wir die Prüfung zur Verschlüsselung.
+
+### Tag 9
+
+#### Tagesablauf
+
+Am neunten Tag hatten wir das Letzte mal Unterricht, wir beendeten alle Aufträge und erstellten einen Brief für eine Firma wie googel, in dem wir nach einem Auszug von unseren daten fragten.
+
+## Aufträge
+
+### Auftrag 1
 
 #### [1b Wo speichere ich meine Daten ab](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/1b%20Wo_speichere_ich_meine_Daten.md)
 
@@ -82,4 +98,14 @@ Am siebten Tag machten wir am anfang ein Spiel bei dem man in einer Gruppe eine 
 
 ### Auftrag 8
 
+#### [8a Problematik von Datenlöschungen](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/8a_Problematik_von_Datenl%C3%B6schungen.md#problematik-von-datenl%C3%B6schungen)
+
+#### [8b Impressum, Disclaimer, AGB](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/8b%20Impressum%2C%20Disclaimer%2C%20AGB.md#impressum-disclaimer-agb)
+
 ### Auftrag 9
+
+#### [9a Lizenzmodelle](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/9a%20Lizenzmodelle.md#9c-lizenzmodelle)
+
+#### [9b KI-Tools - DeepSeek / ChatGPT / Gemini / Copilot](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/9b%20KI-Tools_DeepSeek_ChatGPT_Gemini_Copilot.md#ki-tools-vergleich-2024)
+
+#### [9c Brief](https://github.com/maelseewal/Datenschutz-und-Datensicherheit/blob/main/9c_Brief.pdf)

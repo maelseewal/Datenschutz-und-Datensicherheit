@@ -16,7 +16,7 @@
 
 Ich habe die vier KIs mit einem Promt verglichen und bewertet.
 
-### Promt
+### Prompt
 
 Stellen Sie sich vor, Sie sind ein Reiseberater für eine Familie mit zwei Kindern (8 und 12 Jahre alt), die eine 10-tägige Reise nach Japan plant. Die Familie hat folgende Anforderungen:
 
